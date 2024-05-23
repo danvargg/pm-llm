@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+bs4
+gradio
+chroma
+ollama
