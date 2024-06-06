@@ -16,3 +16,5 @@ pypdf
 flask
 # git+https://github.com/openai/whisper.git
 streamlit
+pyautogui
+chromadb
