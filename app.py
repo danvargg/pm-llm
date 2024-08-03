@@ -1,7 +1,7 @@
 import streamlit as st
 from rag.chain import chain  # replace with the actual module name
 
-st.title('PMBOK Questions')
+st.title('Random project')
 
 question = st.text_input('Enter your question here:')
 if question:

@@ -1,20 +1,21 @@
 langchain
 langchain-openai
 langchain_community
+pypdf
+# git+https://github.com/openai/whisper.git
+streamlit
+pyautogui
+chromadb
+unstructured
+xlrd
 # langchain_pinecone
 # set HNSWLIB_NO_NATIVE=1
-langchain[docarray]
 docarray
 pydantic==1.10.8
+langchain[docarray]
 # pytube 
 # python-dotenv
 # tiktoken 
 # pinecone-client 
 # scikit-learn
 # ruff
-pypdf
-flask
-# git+https://github.com/openai/whisper.git
-streamlit
-pyautogui
-chromadb
